@@ -1,3 +1,4 @@
+package com.test;
 //Author - Madhu
 import org.testng.annotations.Test;
 
